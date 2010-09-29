@@ -18,7 +18,7 @@
 				<li><a rel="up up up" href="#" title="Home - Main page of the Web site">Home</a>&#160;&#62;</li>
 				<li><a rel="up up" href="#">Level&#160;1</a>&#160;&#62;</li>
 				<li><a rel="up" href="#">Level&#160;2</a>&#160;&#62;</li>
-				<li>General Theme - Web Experience Toolkit (WET)</li>
+				<li>General Theme - HTML5 - Web Experience Toolkit (WET)</li>
 			</ol>
 		</nav>
 		</div>
