@@ -18,7 +18,7 @@
 				<li><a rel="up up up" href="#" title="Accueil - Page principale du site Web">Accueil</a>&#160;&#62;</li>
 				<li><a rel="up up" href="#">Niveau&#160;1</a>&#160;&#62;</li>
 				<li><a rel="up" href="#">Niveau&#160;2</a>&#160;&#62;</li>
-				<li>3 colonnes - Thème général (non-<abbr title="Normalisation des sites Internet">NSI</abbr>) - Boîte à outils de l'expérience Web (BOEW)</li>
+				<li>Thème général - Boîte à outils de l'expérience Web (BOEW)</li>
 			</ol>
 		</nav>
 		</div>
