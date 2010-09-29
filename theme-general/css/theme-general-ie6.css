@@ -7,6 +7,7 @@ Conditions régissant l'utilisation : http://tbs-sct.ircan.gc.ca/projects/gcwwwt
 #cn-bcrumb ol {margin: 1px 0 3px 0; clear: left;}
 #cn-bcrumb li {padding-bottom: 3px;}
 
+#cn-left-col li, #cn-right-col li {display: inline-block;}
 .cn-left-col-default ul, .cn-right-col-default ul {margin-left: 0px;}
 .cn-left-col-default ul ul, .cn-right-col-default ul ul {margin-left: 40px;}
 .cn-left-col-default li, .cn-right-col-default li {margin-left: auto;}
