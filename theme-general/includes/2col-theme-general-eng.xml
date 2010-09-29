@@ -14,6 +14,10 @@
 		<nav>inc/leftcol-nav-theme-general-eng.inc</nav>
 		<postnav/>
 	</leftcol>
-	<rightcol/>
+	<rightcol>
+		<prenav/>
+		<nav/>
+		<postnav/>
+	</rightcol>
 	<footer>inc/footer-theme-general-eng.inc</footer>
 </body>
