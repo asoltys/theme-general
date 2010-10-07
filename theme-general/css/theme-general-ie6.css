@@ -8,6 +8,7 @@ Conditions régissant l'utilisation : http://tbs-sct.ircan.gc.ca/projects/gcwwwt
 #cn-bcrumb li {padding-bottom: 3px;}
 
 #cn-left-col li, #cn-right-col li {display: inline-block;}
+.cn-left-col-default h3 {position: relative; top: 0; left: 0; width: 100%; margin-bottom: -1px;}
 .cn-left-col-default ul, .cn-right-col-default ul {margin-left: 0px;}
 .cn-left-col-default ul ul, .cn-right-col-default ul ul {margin-left: 40px;}
 .cn-left-col-default li, .cn-right-col-default li {margin-left: auto;}
@@ -17,8 +18,10 @@ Conditions régissant l'utilisation : http://tbs-sct.ircan.gc.ca/projects/gcwwwt
 .cn-left-col-default #cn-search-box, .cn-search-box {margin-top: -15px;}
 .cn-left-col-default #cn-search-box a, .cn-search-box a {margin-bottom: -19px;}
 .cn-left-col-default #cn-search-box #cn-search-submit, .cn-search-box .cn-search-submit {overflow: visible; padding: 0 8px;}
+
 .cn-right-col-default h3 + div p {margin-top: 1em; margin-bottom: 1em;}
 .cn-right-col-default div {border: 1px solid #000; margin-bottom: 10px;}
+.cn-right-col-default div h3 {border-bottom: 1px solid #000; margin: -1px -1px 0 -1px;}
 .cn-right-col-default div div {border: none; padding-left: 0; padding-right: 0;}
 .cn-right-col-default div p {margin: 1em 9px 1em 9px;}
 .cn-right-col-default ul {margin-bottom: -5px;}

@@ -3,7 +3,7 @@
 			<h2>Heading level&#160;2 (h2)</h2>
 
 			<div class="cn-toppage"><a href="#cn-tphp" title="Return to Top of Page">Top of Page</a></div>
-				<h3>Heading Level&#160;3 (h3)</h3>
+				<h3>Heading level&#160;3 (h3)</h3>
 
 				<div class="cn-toppage"><a href="#cn-tphp" title="Return to Top of Page">Top of Page</a></div>
 					<h4>Heading level&#160;4 (h4)</h4>

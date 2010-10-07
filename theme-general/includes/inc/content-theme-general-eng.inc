@@ -5,7 +5,7 @@
 
 			<div class="cn-toppage"><a href="#cn-tphp" title="Return to Top of Page">Top of Page</a></div>
 			<section>
-				<h3>Heading Level&#160;3 (h3)</h3>
+				<h3>Heading level&#160;3 (h3)</h3>
 
 				<div class="cn-toppage"><a href="#cn-tphp" title="Return to Top of Page">Top of Page</a></div>
 				<section>
