@@ -1,6 +1,6 @@
 <!-- general theme begins / Début du thème général -->
 		<ul id="cn-lang-links">
-			<li><a href="theme-general/3col-theme-general-fra.html" lang="fr" xml:lang="fr" title="Français - Version française de cette page">Français</a></li>
+			<li><a href="theme-general/3col-theme-general-fra.html" lang="fr" title="Français - Version française de cette page">Français</a></li>
 		</ul>
 		<div id="cn-wmms"><img src="theme-general/images/wmms.gif" width="83" height="20" alt="Symbol of the Government of Canada" title="Symbol of the Government of Canada" /></div>
 
