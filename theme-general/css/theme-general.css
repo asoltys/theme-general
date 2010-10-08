@@ -29,7 +29,8 @@ Conditions régissant l'utilisation : http://tbs-sct.ircan.gc.ca/projects/gcwwwt
 .cn-left-col-default li:first-child {border: none;}
 
 .cn-left-col-default h3, .cn-left-col-default h3 a:link, .cn-left-col-default h3 a:visited, .cn-right-col-default h3, .cn-right-col-default h3 a:link, .cn-right-col-default h3 a:visited {color: #FFF; text-decoration: none; display: block;}
-.cn-left-col-default h3 a:hover, .cn-left-col-default h3 a:active, .cn-left-col-default h3 a:focus, .cn-right-col-default h3 a:hover, .cn-right-col-default h3 a:active, .cn-right-col-default h3 a:focus {background-color: #030; color: #CC9; margin: -2px -5px; padding: 2px 5px;}
+.cn-left-col-default h3 a, .cn-right-col-default h3 a {margin: -2px -5px; padding: 2px 5px; width: 100%;}
+.cn-left-col-default h3 a:hover, .cn-left-col-default h3 a:active, .cn-left-col-default h3 a:focus, .cn-right-col-default h3 a:hover, .cn-right-col-default h3 a:active, .cn-right-col-default h3 a:focus {background-color: #030; color: #CC9;}
 .cn-left-col-default a, .cn-right-col-default a {display: block; padding: 3px 5px 3px 10px;}
 .cn-left-col-default a:link, .cn-right-col-default a:link {color: #000; text-decoration: none;}
 .cn-left-col-default a:visited, .cn-right-col-default a:visited {color: #636; text-decoration: none;}
