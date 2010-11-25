@@ -11,8 +11,8 @@
 		<!-- Banner ends / Fin de la bannière -->
 
 		<!-- Breadcrumb begins / Début du fil d'Ariane -->
-		<div id="cn-bcrumb" role="navigation">
-		<nav>
+		<div id="cn-bcrumb">
+		<nav role="navigation">
 			<h2>Breadcrumb</h2>
 			<ol>
 				<li><a rel="up up up" href="#" title="Home - Main page of the Web site">Home</a>&#160;&#62;</li>

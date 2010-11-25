@@ -1,6 +1,5 @@
 <!-- general theme begins / Début du thème général -->
-		<div role="navigation">
-		<nav>
+		<nav role="navigation">
 			<h3>Section&#160;1</h3>
 			<div>
 				<ul>
@@ -15,7 +14,6 @@
 				</ul>	
 			</div>
 		</nav>
-		</div>
 		<section>
 			<h3>Section&#160;2</h3>
 			<div>

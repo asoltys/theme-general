@@ -1,8 +1,8 @@
 <!-- general theme begins / Début du thème général -->
 		<!-- Common menu bar begins / Début de la barre de menu commune --> 	
-		<div id="cn-cmb" role="navigation">
+		<div id="cn-cmb">
 			<h3>Common menu bar</h3>
-			<nav>		
+			<nav role="navigation">		
 				<ul>
 					<li id="cn-cmb1"><a href="#" title="Contact Us - Important contact information">Contact Us</a></li>
 					<li id="cn-cmb2"><a href="#" title="Help - Information about using the Web site">Help</a></li>
